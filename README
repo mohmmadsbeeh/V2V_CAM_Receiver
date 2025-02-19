@@ -1,4 +1,4 @@
-# 🚗 V2V CAM Receiver
+#🚗 V2V CAM Receiver
 
 This repository contains a Dockerized ROS 2 node for testing the [Autoware V2V CAM Publisher Node](https://github.com/mohmmadsbeeh/autoware_v2v_cam_publisher_node/). It integrates the ETSI ITS Messages conversion node from the [ika-rwth-aachen/etsi_its_messages](https://github.com/ika-rwth-aachen/etsi_its_messages/tree/main) repository and includes a UDP socket for receiving and forwarding CAM (Cooperative Awareness Message) data.
 
